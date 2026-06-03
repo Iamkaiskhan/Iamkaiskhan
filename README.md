@@ -24,7 +24,7 @@ Second-year student at **IIT (BHU) Varanasi**, on a self-directed path into quan
 Quantitative finance · Statistics & probability · Backtesting · Algorithmic thinking · Risk management
 
 ### 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](<YOUR-LINKEDIN-URL>)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiskhan/)
 
 ---
 
